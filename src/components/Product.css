@@ -1,0 +1,16 @@
+.product{
+
+    background-color: orange;
+    width: 200px;
+    height: 400px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px gray;
+    text-align: center;
+    color:white;
+    font-size: 20px;
+    font-weight: 800;
+    display: inline-block;
+    margin: 10px;
+    margin-right: 80px;
+
+}
